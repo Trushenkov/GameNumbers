@@ -1,6 +1,7 @@
 package ru.tds.game;
 
 public class Player {
+    
     int number = 0;
 
     public void guess(){
